@@ -3,7 +3,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<b><h3> How to use?<h3><b>
+<b><h2> How to use?<h2><b>
 
 initalizing objects
 
