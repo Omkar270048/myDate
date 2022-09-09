@@ -9,6 +9,12 @@ initalizing objects
 		myDate date3 = new myDate(3,8,1995);
 		myDate date = new myDate(21,7,2022);
 		
+Output:
+
+	false
+	false
+	false
+	
 Using isLeap()
 
 		System.out.println(date1.isLeap());
