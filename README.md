@@ -16,7 +16,7 @@ Initalizing objects
 	myDate date = new myDate(21,7,2022);
 		
 
-Using isLeap()
+Using isLeap(): </br>
 isLeap() will show wether the year is leap year or not.
 Example: date.isLeap();
 
@@ -47,7 +47,7 @@ Output:
 	-1
 	1
 		
-Using dayofWeek()
+Using dayofWeek(): </br>
 dayofWeek() will reture day of the week, like Monday, Tuesday, etc.
 		
 	System.out.println(date.dayofWeek());
@@ -56,7 +56,7 @@ Output:
 	
 	Thursday
 	
-Using toString()
+Using toString(): </br>
 toString() is default feature, it will work when no function is called with object and return the date.
 
 	System.out.println(date1);
