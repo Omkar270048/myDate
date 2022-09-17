@@ -30,7 +30,7 @@ Output:
 	false
 	false	
 	
-Using compare()
+Using compare(): </br>
 compare() will compare two dates.
 Example: date1.compare(date2);
 if date1 < date2, will return -1
